@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osakamani
 - 👀 I’m interested in Artificial Intelligence - Neural Network Development
-- 🌱 I’m currently learning Budhism
+- 🌱 I’m currently learning Buddhism
 - 💞️ I’m looking to collaborate on #AIJesus: 
 - 📫 Reach me via email: kaosa.henry@jkuat.ac.ke; LinkedIn: https://www.linkedin.com/in/nyaosi/
 
